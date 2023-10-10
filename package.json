@@ -1,0 +1,20 @@
+{
+  "name": "ts-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "prettier": "prettier-config-standard",
+  "devDependencies": {
+    "@types/node": "^20.8.4",
+    "prettier": "^3.0.3",
+    "prettier-config-standard": "^7.0.0",
+    "typescript": "^5.2.2"
+  }
+}
